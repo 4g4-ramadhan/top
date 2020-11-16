@@ -9,10 +9,10 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/MantanPrawan/khairulfatihin
+$ git clone https://github.com/4g4-ramadhan/top
 
-$ cd khairulfatihin
+$ cd top
 
 $ ls
 
-$ python2 khairulfatihin.py
+$ python2 top.py
